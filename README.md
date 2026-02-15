@@ -186,15 +186,3 @@ Storage Strategy:
 - API results may be regionally biased.
 
 ---
-
-## Conclusion
-
-This project demonstrates:
-
-- Modular ELT pipeline implementation
-- Multi-source integration
-- Schema harmonization
-- Feature engineering
-- Exploratory labor market analysis
-
-The engineered datasets can support AI systems such as salary prediction models, demand forecasting tools, and skill gap analysis frameworks.
