@@ -17,11 +17,10 @@ The pipeline integrates multiple real-world data sources to analyze:
 - Geographic structure
 - Relationship between hiring activity and search interest
 
-The objective is to demonstrate practical data engineering techniques, including modular design, schema harmonization, feature engineering, and exploratory analysis.
+Note: The analysis of this project assignment is done in the notebooks folder, which answers major questions.
 
 ---
 
-Note: The analysis of this project is done in the notebooks folder, which answers major questions. 
 
 ## Data Sources
 
