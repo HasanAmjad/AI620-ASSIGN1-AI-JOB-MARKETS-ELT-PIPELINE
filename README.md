@@ -17,10 +17,9 @@ The pipeline integrates multiple real-world data sources to analyze:
 - Geographic structure
 - Relationship between hiring activity and search interest
 
+---
 Note: The analysis of this project assignment is done in the notebooks folder, which answers major questions.
 http://github.com/HasanAmjad/AI620-ASSIGN1-AI-JOB-MARKETS-ELT-PIPELINE/blob/Assign-1/notebooks/AI_Labor_Markets_Analysis.ipynb
----
-
 
 ## Data Sources
 
