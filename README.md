@@ -57,7 +57,6 @@ Data Flow:
 ---
 
 ## Project Structure
-
 project/
 │
 ├── data/
@@ -78,7 +77,6 @@ project/
 ├── requirements.txt
 ├── .env
 └── README.md
-
 ---
 
 ## Setup Instructions
